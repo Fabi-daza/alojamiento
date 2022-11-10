@@ -1,1 +1,1 @@
-# alojamiento
+# Plantilla para página de alojamientos
